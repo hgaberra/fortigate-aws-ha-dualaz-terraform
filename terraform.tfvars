@@ -1,5 +1,5 @@
 /*
-Please update the example values here to override the default values in vaariables.tf.
+Please update the example values here to override the default values in variables.tf.
 Any variables in variables.tf can be overriden here.
 Overriding variables here keeps the variables.tf as a clean local reference.
 */
